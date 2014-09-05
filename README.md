@@ -9,4 +9,4 @@ The day came that she decided that it was too expensive and time consuming to pl
 
 Her old projects were old, and she could no longer test any apps she began for WoW, so the only thing she had to show for her coding skills was the website itself, and she has no plans to go into website programming. A fresh start was desired for coding, so this github account was born!
 
-The end! Well, the beginning seems more fitting for this...
+The end! Well, the beginning, actually. ^_^
